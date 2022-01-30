@@ -1,5 +1,5 @@
-# learning-scrapy
-Scrapy files as I learn the library.
+# learning-scraping
+Miscellaneous files as I learn to use Scrapy, BeautifulSoup and Selenium in different ways.
 
 ## Folder Descriptions
 
